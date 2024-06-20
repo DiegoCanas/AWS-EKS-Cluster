@@ -1,5 +1,5 @@
 provider "aws" {
-  region                   = "us-east-1"
+  region                   = "eu-west-2"
   shared_credentials_files = ["~/.aws/credentials"]
   shared_config_files      = ["~/.aws/config"]
   profile                  = "diegocanas"
